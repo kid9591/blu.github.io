@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "XCPFL2XFRY.com.razeware.UniversalLinks.kid",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
